@@ -14,10 +14,10 @@ For each test case, calculate the sum of squares of the integers excepting negat
 
 #Rules
 
-Write it in Go Programming Language
-Your source code must be a single file (package main)
-Do not use for statement
-You may only use standard library packages
+*Write it in Go Programming Language
+*Your source code must be a single file (package main)
+*Do not use for statement
+*You may only use standard library packages
 
 #Sample Input
 
